@@ -1,3 +1,11 @@
+//------pour que le site soit securise------\\
+
+if (window.location.protocol != "https:") {
+  window.location.protocol="https:";
+}
+
+//------Element html------\\
+
 const txt = document.querySelector(".txt");
 const nb = document.querySelector(".nb");
 

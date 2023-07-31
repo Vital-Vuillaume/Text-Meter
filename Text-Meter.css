@@ -15,7 +15,8 @@ body {
 
     background-color: rgb(83, 11, 83);
     height: 100vh;
-    color: white;  opacity: 0;
+    color: white;
+    opacity: 0;
     transform: translateX(-200px);
     animation: apparition 2s ease-out forwards;
   
@@ -50,6 +51,7 @@ header {
     top: 5px;
     text-align: center;
     font-size: 5.1em;
+    white-space: nowrap;
 
 }
 

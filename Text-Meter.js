@@ -1,8 +1,8 @@
 //------pour que le site soit securise------\\
 
-if (window.location.protocol != "https:") {
+/*if (window.location.protocol != "https:") {
   window.location.protocol="https:";
-}
+}*/
 
 //------Element html------\\
 
@@ -20,7 +20,7 @@ txt.addEventListener("input", function() {
 //------Nombre de caractere dans le textarea------\\
 
 function limitNumberLength(input, maxLength) {
-    if (input.value.length > maxLength) {
-      input.value = input.value.slice(0, maxLength);
-    }
+  if (input.value.length > maxLength) {
+    input.value = input.value.slice(0, maxLength);
   }
+}

@@ -1,4 +1,4 @@
-//------pour que le site soit securise------\\
+//------Pour que le site soit securise------\\
 
 /*if (window.location.protocol != "https:") {
   window.location.protocol="https:";

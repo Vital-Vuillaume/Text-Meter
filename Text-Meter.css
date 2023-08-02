@@ -112,6 +112,12 @@ header {
 
 }
 
+:-moz-placeholder {
+
+    color: white;
+
+}
+
 .caractere {
 
     font-family: 'Ubuntu', sans-serif;

@@ -4,11 +4,9 @@ Text-Meter is an online tool that counts the number of characters in a given tex
 
 ## Technologies Used
 
-Text-Meter was developed using the following technologies:
+**This site was developed using the following technologies:**
 
-- HTML5: Used for creating the structure and content of the web page.
-- CSS3: Utilized for designing the user interface and layout.
-- JavaScript: Incorporated to enable interactivity and real-time character counting.
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://github.com/Vital-Vuillaume)
 
 ## How to Use the Tool
 

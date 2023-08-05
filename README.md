@@ -1,6 +1,6 @@
 # Text-Meter
 
-Text-Meter is an online tool that counts the number of characters in a given text. It provides a simple and convenient way to determine the character count in real-time. The tool features an input box for entering the text and an output box for displaying the character count instantly.
+**Text-Meter is an online tool that counts the number of characters in a given text. It provides a simple and convenient way to determine the character count in real-time. The tool features an input box for entering the text and an output box for displaying the character count instantly.**
 
 ## Technologies Used
 
@@ -10,11 +10,11 @@ Text-Meter is an online tool that counts the number of characters in a given tex
 
 ## How to Use the Tool
 
-You can access the Text-Meter tool by visiting the following link: [Text-Meter](https://rmbi.ch/vital/text-meter/)
+### You can access the Text-Meter tool by visiting the following link: [***Text-Meter***](https://rmbi.ch/vital/text-meter/)
 
-1. Enter your text into the input box provided on the page.
-2. The character count will be instantly displayed in the output box as you type.
-3. You can edit the text in the input box, and the character count will be updated automatically in the output box.
+- **1. Enter your text into the input box provided on the page.**
+- **2. The character count will be instantly displayed in the output box as you type.**
+- **3. You can edit the text in the input box, and the character count will be updated automatically in the output box.**
 
 ## Contribution
 

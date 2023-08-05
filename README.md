@@ -18,10 +18,10 @@ You can access the Text-Meter tool by visiting the following link: [Text-Meter](
 
 ## Contribution
 
-I am open to contributions and suggestions to improve this site:
+- ### I am open to contributions and suggestions to improve this site:
 
-1. You can fork the site.
+  **1. You can fork the site.**
 
 ## Acknowledgments
 
-We hope you find Text-Meter helpful and enjoy using it for your character counting needs. Your feedback is valuable to us, and we look forward to making Text-Meter even better!
+**Feel free to explore the site and share your feedback. I hope you enjoy your visit!**

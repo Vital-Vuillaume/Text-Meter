@@ -56,7 +56,7 @@ header {
 }
 
 .container {
-
+    
     display: flex;
     flex-direction: column;
     position: absolute;
